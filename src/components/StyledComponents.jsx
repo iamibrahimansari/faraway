@@ -65,7 +65,6 @@ export const List = styled.ul`
     display: flex;
     width: 80%;
     margin-inline: auto;
-    overflow: scroll;
     flex-wrap: wrap;
     margin-bottom: 3rem;
 `
